@@ -27,3 +27,7 @@ orders ⋈ orders.order_id = order_items.order_id
 By pushing down the selection operator before the join operation, the database management system can reduce the amount of data that needs to be processed and improve query performance.
 
 In summary, by using relational algebra to express and optimize complex queries, database administrators and developers can improve query performance and reduce the time required to execute complex queries.
+
+
+# Example: 
+
