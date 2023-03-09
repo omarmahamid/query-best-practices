@@ -30,4 +30,8 @@ In summary, by using relational algebra to express and optimize complex queries,
 
 
 # Example: 
+imagine we have this tables.
 
+
+
+in code (using persistent java): 
